@@ -1,6 +1,6 @@
 ---
-title: "MA334-SP-7: Final Project"
-author: "Sasikumar Venkatesan - 2411729"
+title: "crime_weather_analysis.Rmd"
+author: "Sasikumar Venkatesan"
 date: " "
 output:
   pdf_document:
@@ -554,3 +554,4 @@ A reduced model can be obtained through **backward elimination**, **stepwise reg
 
 For **younger individuals**, age remained a strong predictor of wages, along with education and union membership — reflecting early-career wage growth patterns.  
 For **older individuals**, the predictive power of age diminished, while **education**, **region**, and **insurance status** played larger roles in explaining wage differences. The substantial improvement in adjusted R² from simple to full models — particularly for the older group — underscores the **importance of multivariable approaches** when analyzing labor income data. This analysis highlights the **complex and evolving nature of wage determination** across career stages, showing that a one-size-fits-all model (like age alone) is insufficient for explaining earnings across the population. Overall, this investigation demonstrates the value of statistical modeling in uncovering how different demographic, educational, and employment factors shape income patterns in the labor market.
+
